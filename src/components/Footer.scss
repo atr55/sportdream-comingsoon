@@ -1,0 +1,14 @@
+$textColor: gray;
+
+.footerContent {
+  height: 5vh;
+  background-image: linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  margin-bottom: 0;
+  font-size: 17px;
+}
