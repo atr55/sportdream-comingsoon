@@ -15,7 +15,7 @@
   height: 100vh;
 } */
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
   .contentPage {
     background-image: url(./img/background-mobile.svg);
     background-size: cover;
